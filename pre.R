@@ -1,3 +1,5 @@
+#作業前の処理
+
 library(nimble)
 library(coda)
 library(tidyverse)
